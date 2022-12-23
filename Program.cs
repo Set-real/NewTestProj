@@ -10,6 +10,7 @@ namespace NewTestProj
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
